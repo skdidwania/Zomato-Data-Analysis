@@ -1,0 +1,60 @@
+cuisine_id,cuisine_name
+1,American
+3,Asian
+131,Australian
+193,BBQ
+160,Balti
+145,Bangladeshi
+227,Bar Food
+270,Beverages
+182,Breakfast
+133,British
+168,Burger
+30,Cafe
+491,Cajun
+158,Caribbean
+25,Chinese
+161,Coffee and Tea
+144,Contemporary
+192,Deli
+100,Desserts
+541,Diner
+651,Eastern European
+38,European
+40,Fast Food
+271,Finger Food
+298,Fish and Chips
+45,French
+274,Fusion
+181,Grill
+148,Indian
+154,International
+135,Irish
+55,Italian
+60,Japanese
+66,Lebanese
+70,Mediterranean
+73,Mexican
+137,Middle Eastern
+294,Modern European
+147,Moroccan
+117,Nepalese
+50,North Indian
+110,Others
+139,Pakistani
+82,Pizza
+87,Portuguese
+983,Pub Food
+304,Sandwich
+210,Scottish
+83,Seafood
+471,Southern
+89,Spanish
+141,Steak
+177,Sushi
+190,Taiwanese
+179,Tapas
+163,Tea
+95,Thai
+142,Turkish
+99,Vietnamese
